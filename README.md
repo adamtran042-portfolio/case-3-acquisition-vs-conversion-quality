@@ -14,7 +14,7 @@ Do not scale acquisition under current conditions. Growth is constrained by both
 ## Analysis Overview
 - SQL used to define user cohorts and measure cohort-level acquisition and purchase outcomes.
 - Python used to compare new user inflow against purchasers and visualize purchase rate trends over time.
-- Purchase rate is defined as the percentage of cohort users who purchase at least once.
+- Purchase rate is defined as the percentage of cohort users who complete a purchase within their cohort month (month-0 conversion).
 
 ## Key Findings
 - New user acquisition declines steadily across cohorts.
